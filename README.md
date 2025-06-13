@@ -25,11 +25,12 @@
 - **⚖️ BMI Calculator** - Calculate and monitor Body Mass Index with health status indicators
 
 ### 🏃‍♂️ Workout Categories
-- 💪 **Strength Training** - Weight lifting, resistance exercises
+- 💪 **Strength** - Weight lifting, resistance exercises
 - ❤️ **Cardio** - Running, cycling, swimming
 - 🧘‍♀️ **Yoga** - Flexibility and mindfulness practices
-- 🏃‍♀️ **General Fitness** - Mixed activities and sports
-
+- 🏃‍♀️ **Swimming** - Swimming
+- 🏃‍♀️ **Cycling** - Cycling
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -159,32 +160,6 @@ dependencies:
    - Check summary screen for category breakdowns
    - Track weekly/monthly activity trends
 
-## 🎯 Future Enhancements
-
-- 📈 Advanced analytics and progress charts
-- 🏆 Achievement badges and milestones
-- 📱 Workout reminders and notifications
-- 🔄 Data export/import functionality
-- 👥 Social sharing capabilities
-- 🎵 Integration with music/timer apps
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design for UI inspiration
-- Fitness community for feature suggestions
 
 ## 📧 Contact
 
@@ -193,5 +168,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Link:** [https://github.com/yourusername/fittracker](https://github.com/tyagidipanshu098/TechMahindra_Final_Assessment)
 
 ---
-
-⭐ **Star this repository if you found it helpful!** ⭐
