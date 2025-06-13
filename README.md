@@ -9,10 +9,11 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="Screenshots/home.png" alt="Home Screen" width="200"/>
-  <img src="Screenshots/add.png" alt="Add Workout" width="200"/>
-  <img src="Screenshots/bmi.png" alt="BMI Calculator" width="200"/>
-  <img src="Screenshots/summary.png" alt="Summary Stats" width="200"/>
+  <img src="Screenshots/home.png" alt="Home Screen" width="180"/>
+  <img src="Screenshots/home_titles.png" alt="Home titles Screen" width="180"/>
+  <img src="Screenshots/add.png" alt="Add Workout" width="180"/>
+  <img src="Screenshots/bmi.png" alt="BMI Calculator" width="180"/>
+  <img src="Screenshots/summary.png" alt="Summary Stats" width="180"/>
 </div>
 
 ## ✨ Features
