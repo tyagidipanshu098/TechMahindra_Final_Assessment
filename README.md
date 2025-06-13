@@ -11,7 +11,7 @@
 ```
 [Home Screen]     [Add Workout]     [BMI Calculator]     [Summary Stats]
     📋               ➕                 ⚖️                  📊
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![BMI](screenshots/bmi.png) | ![Summary](screenshots/summary.png) |
+| ![Home](Screenshots/home.png) | ![Add](Screenshots/add.png) | ![BMI](Screenshots/bmi.png) | ![Summary](Screenshots/summary.png) |
 ```
 
 ## ✨ Features
